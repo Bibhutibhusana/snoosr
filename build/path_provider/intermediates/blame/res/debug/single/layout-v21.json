@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\MyProject\\start_up-v1.0.1\\build\\path_provider\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\883da76ac264f9b8dacbc25f23566bc8\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\start_up-v1.0.1\\build\\path_provider\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\883da76ac264f9b8dacbc25f23566bc8\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\start_up-v1.0.1\\build\\path_provider\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\883da76ac264f9b8dacbc25f23566bc8\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\start_up-v1.0.1\\build\\path_provider\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\883da76ac264f9b8dacbc25f23566bc8\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    }
+]

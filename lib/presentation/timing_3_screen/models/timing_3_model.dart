@@ -1,0 +1,1 @@
+class Timing3Model {}

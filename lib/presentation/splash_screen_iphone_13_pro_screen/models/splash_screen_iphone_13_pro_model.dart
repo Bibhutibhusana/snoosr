@@ -1,0 +1,1 @@
+class SplashScreenIphone13ProModel {}
